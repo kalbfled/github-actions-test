@@ -1,4 +1,4 @@
 # Github Actions Test
 
-This is a test of Github actions, which are free for public repositories.
+This is a test of Github Actions, which are free for public repositories.
 
